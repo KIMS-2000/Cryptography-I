@@ -1,0 +1,29 @@
+1)The Navajo Code Talkers were a relatively modern example of a cryptosystem in which 
+Ans:the spoken language was the key
+
+2)The distinction between a 'code' and a 'cipher' is
+Ans:meaningless
+
+3)The term used for the art and science of breaking codes and ciphers is
+Ans:cryptanalysis
+
+4)In World War II, the primary military cipher used by the Germans in the field was
+Ans:the enigma Machine
+
+5)The usual benchmark against which computational attacks are compared is
+Ans:the brute-force attack  that symetrically searches the key space
+
+6)Which of the following, when used properly, is provably unbreakable?
+Ans:the vernam chioer
+
+7)Kerckhoff's Principle strongly recommends that
+Ans:it be assumed that the adversary has all information about the cryptosystem algorithm and its implemantations.
+
+8)The only piece of information that must be kept secret in most asymmetric cryptosystems is
+Ans:the private key
+
+9)In most cryptosystems the distribution and verification of keys is generally accomplished by
+Ans:using a trusted third party
+
+10)The name generally given to the actor than can insert messages into a communications channel is
+Ans:malory
